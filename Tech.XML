@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Company>
+    <Employee id="E001">
+        <Name>John Doe</Name>
+        <Position>Data Analyst</Position>
+        <Salary>$75,000</Salary>
+    </Employee>
+    <Employee id="E002">
+        <Name>Jane Smith</Name>
+        <Position>Business Intelligence Manager</Position>
+        <Salary>$95,000</Salary>
+    </Employee>
+    <Employee id="E003">
+        <Name>Robert Brown</Name>
+        <Position>Software Engineer</Position>
+        <Salary>$87,000</Salary>
+    </Employee>
+    <Employee id="E004">
+        <Name>Emily Davis</Name>
+        <Position>Data Scientist</Position>
+        <Salary>$98,000</Salary>
+    </Employee>
+</Company>
+
+
